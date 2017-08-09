@@ -1,6 +1,6 @@
 body
 {
-    color:black;
+    color:blue;
 }
 
 textarea{
@@ -8,18 +8,22 @@ textarea{
     color:gray;
 }
 
-.btn-xlbtn-xl
-{
-    color:red;
+.btn-xlbtn-xl {
+    color: red;
     background-color: burlywood;
-    border-style:none;
-
-
+    border-style: none;
 }
+
 input[type="text"]{
     color:black;
+
 }
 
 .lb-lg{
     font-size: 20px;
+}
+
+*{
+    font-size:20px;
+    line-height: 2;
 }
